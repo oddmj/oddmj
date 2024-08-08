@@ -1,4 +1,24 @@
-## Hi there 👋
+### Myungjae Jang 👋
+
+#### Wanna be a
+
+- Software Enginner
+- Someone Who Creates Things That Benefit Us
+- A Colleague Everyone Needs
+- Contributor to the Organization
+
+#### Work Experience
+
+- Vanilla Coding (2024.05 ~)
+- Wired Company (2021.12 ~ 2024.01)
+- Howbuild (2020.12 ~ 2021.11)
+- Kakao (2019.01 ~ 2020.12)
+- Yanolja (2018.09 ~ 2018.12)
+- NHN Ticketlink (2016.05 ~ 2018.09)
+
+#### Activities
+
+- [Kakao Tech Blog Post](https://tech.kakao.com/posts/413)
 
 <!--
 **oddmj/oddmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
