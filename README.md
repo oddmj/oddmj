@@ -3,8 +3,8 @@
 #### Aspiring
 
 - Software Enginner
-- Someone Who Creates Things That Benefit Us
-- A Colleague Everyone Needs
+- Someone Who Creates Things That Benefit Others
+- Colleague Everyone Needs
 - Contributor to the Organization
 
 #### Work Experience
