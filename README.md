@@ -1,6 +1,6 @@
 ### Myungjae Jang 👋
 
-#### Aspiring
+#### Wanna be a
 
 - Software Enginner
 - Someone Who Creates Things That Benefit Others
