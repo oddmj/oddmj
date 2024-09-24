@@ -3,7 +3,7 @@
 #### Wanna be a
 
 - Software Enginner
-- Someone Who Creates Things That Benefit Others
+- Creator Making Things of Worth
 - Colleague Everyone Needs
 - Contributor to the Organization
 
