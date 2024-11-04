@@ -2,7 +2,7 @@
 
 #### Wanna be a
 
-- Software Enginner
+- Software Engineer
 - Creator Making Things of Worth
 - Colleague Everyone Needs
 - Contributor to the Organization
